@@ -16,9 +16,4 @@ A record of writing on Leetcode
 |09|[70. Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/description/)|[70.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/70.py)|08/06/2018|
 |10|[728. Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/description/)|[728.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/728.py)|08/06/2018|
 |11|[94. Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|[94.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/94.py)|08/06/2018|
-
-
-
-
-
-
+|12|[104. Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)|[104.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/104.py)|08/06/2018|

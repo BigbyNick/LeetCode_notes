@@ -17,3 +17,6 @@ A record of writing on Leetcode
 |10|[728. Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/description/)|[728.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/728.py)|08/06/2018|
 |11|[94. Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|[94.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/94.py)|08/06/2018|
 |12|[104. Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)|[104.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/104.py)|08/06/2018|
+|13|[102. Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/description/)|[102.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/102.py)|08/06/2018|
+
+

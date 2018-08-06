@@ -15,6 +15,7 @@ A record of writing on Leetcode
 |08|[7. Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/)|[7.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/7.py)|08/06/2018|
 |09|[70. Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/description/)|[70.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/70.py)|08/06/2018|
 |10|[728. Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/description/)|[728.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/728.py)|08/06/2018|
+|11|[94. Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|[94.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/94.py)|08/06/2018|
 
 
 

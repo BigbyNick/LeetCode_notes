@@ -20,7 +20,7 @@ A record of writing on Leetcode
 |13|[102. Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/description/)|[102.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/102.py)|08/06/2018|
 |14|[111. Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/description/)|[111.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/111.py)|08/06/2018|
 |15|[144. Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/)|[144.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/144.py)|08/06/2018|
-|16|[145. Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/)|[102.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/145.py)|08/06/2018|
+|16|[145. Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/)|[145.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/145.py)|08/06/2018|
 
 
 

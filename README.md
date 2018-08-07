@@ -22,9 +22,10 @@ A record of writing on Leetcode
 |15|[144. Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/)|[144.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/144.py)|08/06/2018|
 |16|[145. Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/)|[145.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/145.py)|08/06/2018|
 |17|[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|[105.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/105.py)|08/06/2018|
+|18|[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)|[106.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/106.py)|08/07/2018|
+|19|[107. Binary Tree Level Order Traversal II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/description/)|[107.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/107.py)|08/07/2018|
+|20|[112. Path Sum](https://leetcode-cn.com/problems/path-sum/description/)|[112.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/112.py)|08/07/2018|
+|21|[513. Find Bottom Left Tree Value](https://leetcode-cn.com/problems/find-bottom-left-tree-value/description/)|[513.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/513.py)|08/07/2018|
+|22|[543. Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/)|[543.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/543.py)|08/07/2018|
 
-
-
-
-
-
+to be connitued...

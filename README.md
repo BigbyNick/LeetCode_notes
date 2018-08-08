@@ -27,5 +27,10 @@ A record of writing on Leetcode
 |20|[112. Path Sum](https://leetcode-cn.com/problems/path-sum/description/)|[112.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/112.py)|08/07/2018|
 |21|[513. Find Bottom Left Tree Value](https://leetcode-cn.com/problems/find-bottom-left-tree-value/description/)|[513.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/513.py)|08/07/2018|
 |22|[543. Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/)|[543.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/543.py)|08/07/2018|
+|23|[404. Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/description/)|[404.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/404.py)|08/08/2018|
+|24|[561. Array Partition I](https://leetcode-cn.com/problems/array-partition-i/description/)|[561.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/561.py)|08/08/2018|
+|25|[867. Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/description/)|[867.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/867.py)|08/08/2018|
+|26|[118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/description/)|[118.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/118.py)|08/08/2018|
+|27|[119. Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/description/)|[119.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/119.py)|08/08/2018|
 
 to be connitued...

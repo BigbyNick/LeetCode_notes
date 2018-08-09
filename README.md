@@ -32,7 +32,7 @@ A record of writing on Leetcode
 |25|[867. Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/description/)|[867.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/867.py)|08/08/2018|
 |26|[118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/description/)|[118.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/118.py)|08/08/2018|
 |27|[119. Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/description/)|[119.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/119.py)|08/08/2018|
-|28|[226. Invert Binary Tree]|[226.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/226.py)|08/09/2018|
+|28|[226. Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/description/)|[226.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/226.py)|08/09/2018|
 |29|[559. Maximum Depth of N-ary Tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/description/)|[559.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/559.py)|08/09/2018|
 |30|[617. Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)|[617.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/617.py)|08/09/2018|
 |31|[669. Trim a Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/description/)|[669.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/669.py)|08/09/2018|

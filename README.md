@@ -3,6 +3,8 @@ A record of writing on Leetcode
 
 **recorded by NickYue**
 
+**Total number: 37**
+
 |序号|题目描述|相关文件|日期|
 |:---|:---|:---|:---|
 |01|[1. Two Sum](https://leetcode-cn.com/problems/two-sum/description/)|[1.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/1.py)|08/05/2018|
@@ -37,6 +39,11 @@ A record of writing on Leetcode
 |30|[617. Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)|[617.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/617.py)|08/09/2018|
 |31|[669. Trim a Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/description/)|[669.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/669.py)|08/09/2018|
 |32|[589. N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)|[589.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/589.py)|08/09/2018|
+|33|[2. Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/description/)|[2.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/2.py)|08/11/2018|
+|34|[8. String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/description/)|[8.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/8.py)|08/11/2018|
+|35|[9. Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/description/)|[9.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/9.py)|08/11/2018|
+|36|[12. Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/description/)|[12.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/12.py)|08/11/2018|
+|37|[832. Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/description/)|[832.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/832.py)|08/11/2018|
 
 
 to be connitued...

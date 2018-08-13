@@ -44,6 +44,11 @@ A record of writing on Leetcode
 |35|[9. Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/description/)|[9.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/9.py)|08/11/2018|
 |36|[12. Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/description/)|[12.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/12.py)|08/11/2018|
 |37|[832. Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/description/)|[832.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/832.py)|08/11/2018|
+|38|[113. Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/description/)|[113.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/113.py)|08/13/2018|
+|39|[114. Flatten Binary Tree to Linked List)](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/description/)|[114.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/114.py)|08/13/2018|
+|40|[257. Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/description/)|[257.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/257.py)|08/13/2018|
+|41|[437. Path Sum III](https://leetcode-cn.com/problems/path-sum-iii/description/)|[437.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/437.py)|08/13/2018|
+|42|[515. Find Largest Value in Each Tree Row](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/description/)|[515.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/515.py)|08/13/2018|
 
 
 to be connitued...

@@ -63,4 +63,6 @@ A record of writing on Leetcode
 |54|[62. Unique Paths](https://leetcode-cn.com/problems/unique-paths/description/)|[62.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/62.py)|08/18/2018|
 |55|[120. Triangle](https://leetcode-cn.com/problems/triangle/description/)|[120.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/120.py)|08/18/2018|
 |56|[413. Arithmetic Slices](https://leetcode-cn.com/problems/arithmetic-slices/description/)|[413.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/413.py)|08/18/2018|
+
+
 to be connitued...

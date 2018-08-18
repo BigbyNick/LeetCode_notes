@@ -3,7 +3,7 @@ A record of writing on Leetcode
 
 **recorded by NickYue**
 
-**Total number: 47**
+**Total number: 56**
 
 |序号|题目描述|相关文件|日期|
 |:---|:---|:---|:---|
@@ -60,5 +60,7 @@ A record of writing on Leetcode
 |51|[303. Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/description/)|[303.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/303.py)|08/18/2018|
 |52|[338. Counting Bits](https://leetcode-cn.com/problems/counting-bits/description/)|[338.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/338.py)|08/18/2018|
 |53|[746. Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/description/)|[746.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/746.py)|08/18/2018|
-
+|54|[62. Unique Paths](https://leetcode-cn.com/problems/unique-paths/description/)|[62.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/62.py)|08/18/2018|
+|55|[120. Triangle](https://leetcode-cn.com/problems/triangle/description/)|[120.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/120.py)|08/18/2018|
+|56|[413. Arithmetic Slices](https://leetcode-cn.com/problems/arithmetic-slices/description/)|[413.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/413.py)|08/18/2018|
 to be connitued...

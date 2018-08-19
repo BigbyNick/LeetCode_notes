@@ -3,7 +3,7 @@ A record of writing on Leetcode
 
 **recorded by NickYue**
 
-**Total number: 56**
+**Total number: 59**
 
 |序号|题目描述|相关文件|日期|
 |:---|:---|:---|:---|
@@ -64,6 +64,7 @@ A record of writing on Leetcode
 |55|[120. Triangle](https://leetcode-cn.com/problems/triangle/description/)|[120.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/120.py)|08/18/2018|
 |56|[413. Arithmetic Slices](https://leetcode-cn.com/problems/arithmetic-slices/description/)|[413.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/413.py)|08/18/2018|
 |57|[877. Stone Game](https://leetcode-cn.com/problems/stone-game/description/)|[877.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/877.py)|08/19/2018|
-
+|58|[486. Predict the Winner](https://leetcode-cn.com/problems/predict-the-winner/description/)|[486.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/486.py)|08/18/2018|
+|59|[647. Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/description/)|[647.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/647.py)|08/19/2018|
 
 to be connitued...

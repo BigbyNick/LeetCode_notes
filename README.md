@@ -66,5 +66,12 @@ A record of writing on Leetcode
 |57|[877. Stone Game](https://leetcode-cn.com/problems/stone-game/description/)|[877.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/877.py)|08/19/2018|
 |58|[486. Predict the Winner](https://leetcode-cn.com/problems/predict-the-winner/description/)|[486.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/486.py)|08/18/2018|
 |59|[647. Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/description/)|[647.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/647.py)|08/19/2018|
+|60|[268. Missing Number](https://leetcode-cn.com/problems/missing-number/description/)|[268.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/268.py)|08/24/2018|
+|61|[28. Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)|[28.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/28.py)|08/24/2018|
+|62|[876. Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/description/)|[876.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/876.py)|08/24/2018|
+|63|[804. Unique Morse Code Words](https://leetcode-cn.com/problems/unique-morse-code-words/description/)|[804.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/804.py)|08/24/2018|
+|64|[476. Number Complement](https://leetcode-cn.com/problems/number-complement/description/)|[476.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/476.py)|08/24/2018|
+|65|[709. To Lower Case](https://leetcode-cn.com/problems/to-lower-case/description/)|[709.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/709.py)|08/24/2018|
+|66|[852. Peak Index in a Mountain Array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|[852.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/852.py)|08/24/2018|
 
 to be connitued...

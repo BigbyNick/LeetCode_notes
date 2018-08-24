@@ -3,7 +3,7 @@ A record of writing on Leetcode
 
 **recorded by NickYue**
 
-**Total number: 59**
+**Total number: 70**
 
 |序号|题目描述|相关文件|日期|
 |:---|:---|:---|:---|
@@ -73,5 +73,9 @@ A record of writing on Leetcode
 |64|[476. Number Complement](https://leetcode-cn.com/problems/number-complement/description/)|[476.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/476.py)|08/24/2018|
 |65|[709. To Lower Case](https://leetcode-cn.com/problems/to-lower-case/description/)|[709.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/709.py)|08/24/2018|
 |66|[852. Peak Index in a Mountain Array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|[852.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/852.py)|08/24/2018|
+|67|[463. Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/description/)|[463.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/463.py)|08/24/2018|
+|68|[500. Keyboard Row](https://leetcode-cn.com/problems/keyboard-row/description/)|[500.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/500.py)|08/24/2018|
+|69|[575. Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/description/)|[575.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/575.py)|08/24/2018|
+|70|[811. Subdomain Visit Count](https://leetcode-cn.com/problems/subdomain-visit-count/description/)|[811.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/811.py)|08/24/2018|
 
 to be connitued...

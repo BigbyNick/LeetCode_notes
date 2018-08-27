@@ -77,5 +77,8 @@ A record of writing on Leetcode
 |68|[500. Keyboard Row](https://leetcode-cn.com/problems/keyboard-row/description/)|[500.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/500.py)|08/24/2018|
 |69|[575. Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/description/)|[575.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/575.py)|08/24/2018|
 |70|[811. Subdomain Visit Count](https://leetcode-cn.com/problems/subdomain-visit-count/description/)|[811.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/811.py)|08/24/2018|
+|71|[171. Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/description/)|[171.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/171.py)|08/27/2018|
+|72|[557. Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/)|[557.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/557.py)|08/27/2018|
+|73|[821. Shortest Distance to a Character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/)|[821.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/821.py)|08/27/2018|
 
 to be connitued...

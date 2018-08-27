@@ -3,7 +3,7 @@ A record of writing on Leetcode
 
 **recorded by NickYue**
 
-**Total number: 70**
+**Total number: 73**
 
 |序号|题目描述|相关文件|日期|
 |:---|:---|:---|:---|

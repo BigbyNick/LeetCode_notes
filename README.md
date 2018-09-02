@@ -80,5 +80,8 @@ A record of writing on Leetcode
 |71|[171. Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/description/)|[171.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/171.py)|08/27/2018|
 |72|[557. Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/)|[557.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/557.py)|08/27/2018|
 |73|[821. Shortest Distance to a Character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/)|[821.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/821.py)|08/27/2018|
+|71|[122. Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[122.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/122.py)|09/02/2018|
+|72|[860. Lemonade Change](https://leetcode-cn.com/problems/lemonade-change/description/)|[860.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/860.py)|09/02/2018|
+|73|[455. Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/description/)|[455.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/455.py)|09/02/2018|
 
 to be connitued...

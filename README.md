@@ -3,7 +3,7 @@ A record of writing on Leetcode
 
 **recorded by NickYue**
 
-**Total number: 73**
+**Total number: 79**
 
 |序号|题目描述|相关文件|日期|
 |:---|:---|:---|:---|
@@ -83,5 +83,8 @@ A record of writing on Leetcode
 |74|[122. Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[122.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/122.py)|09/02/2018|
 |75|[860. Lemonade Change](https://leetcode-cn.com/problems/lemonade-change/description/)|[860.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/860.py)|09/02/2018|
 |76|[455. Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/description/)|[455.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/455.py)|09/02/2018|
+|77|[402. 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/description/)|[402.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/402.py)|09/03/2018|
+|78|[738. 单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/description/)|[738.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/738.py)|09/03/2018|
+|79|[874. 模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/description/)|[874.py](https://github.com/BigbyNick/LeetCode_notes/blob/master/874.py)|09/03/2018|
 
 to be connitued...
